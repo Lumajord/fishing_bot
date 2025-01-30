@@ -13,8 +13,4 @@ Takes screenshots of the game and evaluates them with OpenCV to find the blobber
 Then moves the mouse to the blobber and monitors it closely, automatically right clicks if something was caught.
 
 
-<img src="https://github.com/Lumajord/fishing_bot/blob/main/with_blobber.png" width="250">  
--  
-<img src="https://github.com/Lumajord/fishing_bot/blob/main/background.png" width="250">  
-=  
-<img src="https://github.com/Lumajord/fishing_bot/blob/main/difference.png" width="250">  
+<img src="https://github.com/Lumajord/fishing_bot/blob/main/with_blobber.png" width="250"> - <img src="https://github.com/Lumajord/fishing_bot/blob/main/background.png" width="250"> = <img src="https://github.com/Lumajord/fishing_bot/blob/main/difference.png" width="250">  
